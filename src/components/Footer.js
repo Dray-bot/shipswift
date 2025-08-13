@@ -63,7 +63,7 @@ export default function Footer() {
 
       {/* Footer Bottom */}
       <div className="mt-12 border-t border-gray-200 pt-6 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} ShipSwift. All rights reserved.
+        © {new Date().getFullYear()} ShipSwift. All rights reserved. Made by Dray.
       </div>
 
       {/* Decorative gradient circles */}
